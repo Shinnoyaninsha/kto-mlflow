@@ -62,7 +62,7 @@ apiVersion: rbac.authorization.k8s.io/v1
 kind: Role
 metadata:
   name: dailyclean
-  namespace: 	hinnoyaninsha-dev-dev
+  namespace: 	shinnoyaninsha-dev-dev
 rules:
   - verbs:
       - get
